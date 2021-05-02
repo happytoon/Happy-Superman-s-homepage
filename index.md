@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/happytoon/Happy-Superman-s-homepage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/happytoon/Happy-Superman-s-homepage/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# 欢迎您来到开心超人的主页
+【个人简历】
+开心超人原来是启源星上的五块能量石中代表勇敢的能量石，后来这五块石头被改造成五颗机械石，分别附在了机器上，
+变成了超人。虽然已经附在了机车上，但是机车破损，依然无法变身。后来宅博士修好了机车，开心超人和其他超人苏醒。
+为报答宅博士，开心超人和其他超人留在了星星球，保卫星星球。
+## 技术支持与维护
+有关在Github的主页由开心超人宅家发起，任何人不得进行网页内容篡改再次发行
+###【维护账号】2083796595@qq.com
+####社交平台
+乐乎:https://akasi68431.lofter.com
+####支持的技术语言
+非常抱歉，暂不支持中文简体以外语言还请您谅解或者使用谷歌翻译
+Sorry, languages other than simplified Chinese are not currently supported. Please forgive me or use Google Translate
