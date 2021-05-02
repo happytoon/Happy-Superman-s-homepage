@@ -14,4 +14,5 @@ Sorry,languagesotherthansimplifiedChinesearenotcurrentlysupported.Pleaseforgivem
 ### Copyright warning 版权警告
 上述内容受到全球法律法规保护
 Theabovecontentisprotectedbygloballawsandregulations
-
+####技术支援
+感谢GitHub提供技术托管，网页架构由GitHub提供
