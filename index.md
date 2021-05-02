@@ -8,6 +8,10 @@
 【维护账号】2083796595@qq.com
 社交平台
 乐乎:https://akasi68431.lofter.com
-####支持的技术语言
+支持的技术语言
 非常抱歉，暂不支持中文简体以外语言还请您谅解或者使用谷歌翻译
-Sorry, languages other than simplified Chinese are not currently supported. Please forgive me or use Google Translate
+Sorry,languagesotherthansimplifiedChinesearenotcurrentlysupported.PleaseforgivemeoruseGoogleTranslate
+### Copyright warning 版权警告
+上述内容受到全球法律法规保护
+Theabovecontentisprotectedbygloballawsandregulations
+
