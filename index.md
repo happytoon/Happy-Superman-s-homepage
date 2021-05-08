@@ -16,3 +16,5 @@ Sorry,languagesotherthansimplifiedChinesearenotcurrentlysupported.Pleaseforgivem
 Theabovecontentisprotectedbygloballawsandregulations
 ## 关于电子邮件
 目前，开心超人联盟团队在星星球，如果您收到过说明您与他们有缘分，嘻嘻
+## 版权信息
+copyright ©2021-2990jialuo版权所有
